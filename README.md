@@ -4,6 +4,8 @@ This repository is the official implementation of **Multi-Stage Generation of Ru
 
 You first need to extract replication_package.tar.gz.
 
+![image](overview.png)
+
 
 ## Requirements
 
