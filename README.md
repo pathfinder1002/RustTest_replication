@@ -1,6 +1,6 @@
 # Implementation of RustTest
 
-This repository is the official implementation of **Multi-Stage Generation of Rust Unit Tests with LLMs**.
+This repository is the official implementation of [Multi-Stage Generation of Rust Unit Tests with LLMs](https://ieeexplore.ieee.org/abstract/document/11396554).
 
 You first need to extract replication_package.tar.gz.
 
